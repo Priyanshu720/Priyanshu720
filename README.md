@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshu720
+- 👋 Hi, I’m Prabhakar Singh Rautela
 - 👀 I’m interested in c/c++
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
